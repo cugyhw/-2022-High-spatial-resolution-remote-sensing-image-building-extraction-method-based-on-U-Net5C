@@ -1,4 +1,4 @@
-# (2022)High spatial resolution remote sensing image building extraction method based on-U-Net5C
+# (2022)High spatial resolution remote sensing image building extraction method based on U-Net5C
 # 基于U-Net5C的高分辨率遥感影像建筑物提取方法
 # A variant model based on the U-Net network
 
